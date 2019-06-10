@@ -6,6 +6,6 @@ print(paste("Hello",name))
 
 mood=readline(prompt="how are you doing?: ")
 
-if (mood="Good") {
+if (mood=="Good") {
   print("Great")
 }
