@@ -1,3 +1,4 @@
-#print out hello Git!
+#print out name
 
-print("Hello Git and the World!")
+name = readline(prompt="Input your name: ")
+print(paste("Hello",name))
